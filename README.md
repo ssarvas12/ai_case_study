@@ -1,2 +1,3 @@
-# ai_case_study
-Open A.I. Case Study 
+# OpenAI Case Study 
+## Overview and Origin 
+Open AI is a private research organization focused on creating and guiding artificial inteligence (A.I.) to serve the greater good of humanity. The company was established by Elon Musk, Sam Altman, Ilya Sutskever, and others in 2015. The company was officially founded in 2015. The company was established with two main goals in mind. The first being that the founders's had deep concerns about the possibility of artificial inteligence being used in a potentially harmful or damaging fashion. The second being to continue developing and advancing A.I. into the future, with the goal of continuing to progress and enchance its potential to assist us in our everyday lives. The declared purpose of the company to strive for the development of a safe and secure future as A.I. grows is made apparent by their willingess to openly work with other research groups and individuals in the field. 
